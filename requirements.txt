@@ -1,0 +1,9 @@
+streamlit
+transformers
+pandas
+python-docx
+fpdf
+yake
+PyPDF2
+plotly
+torch
